@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## view knowledge
 
 You can use the [editor on GitHub](https://github.com/leiyanrui/leiyanrui.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
